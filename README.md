@@ -1,6 +1,23 @@
-## Data Viz for Teachers and Students: Why these blog posts? 
+# Zan's Data Viz Blog for teachers
 
-#### Lots of good stuff out there, but hard to find
+## Posts
+
+Jan 8, 2018: [Race and Neighborhoods](https://raw.githubusercontent.com/zanarmstrong/dataviz-for-teachers/master/raceAndLocation.md)
+
+## Viz Resources for Teachers
+
+New York Times' Monthly ["What's Going On In This Graph"](https://www.nytimes.com/column/whats-going-on-in-this-graph?action=click&contentCollection=The%20Learning%20Network&module=ExtendedByline&region=Header&pgtype=article) Series which is part of their [Learning Network](https://www.nytimes.com/section/learning)
+
+
+## Viz Compliations
+[Flowing Data](https://flowingdata.com/): a Data Visualization Blog and email list with great links ot interesting viz from around the web. 
+
+[Information is Beautiful Awards Winners](https://www.informationisbeautifulawards.com/showcase?action=index&award=2017&controller=showcase&page=1&pcategory=winner&type=awards)
+
+
+## What is this blog all about? 
+
+#### Lots of good viz stuff on the web, but it's hard to find
 There is a lot of amazing data visualization and explorable explanations content online which could be valuable resources in the classroom. That said, it's hard enough to keep track of the work as a practitioner in the field, much less find it as a teacher. Many of these are not easily searchable when looking for a teaching resource, especially because they are based on visuals and the text might not be crawlable by a search engine.  
 
 #### Goal #1: provide support for topics that you're already teaching

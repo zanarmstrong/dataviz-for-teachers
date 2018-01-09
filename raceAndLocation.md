@@ -76,3 +76,5 @@ From a STEM point of view, students could engage thoughtfully with 300 million d
 
 From a communication/design/media point of view, students might discuss how these 4 methods of communicating similar topics differ. What is advantageous about one vs another? How does that relate to what message or information is being conveyed? Or, to who the audience is? 
 
+#### Back to [Zan's Data Viz Blog for Teachers](https://raw.githubusercontent.com/zanarmstrong/dataviz-for-teachers/master/README.md)
+
