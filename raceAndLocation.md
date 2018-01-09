@@ -1,4 +1,4 @@
-# Racism and Neighborhoods
+# Race and Neighborhoods
 December 17, 2017
 
 STEM TOPICS: data visualization, cartography/map making, interpreting maps, modeling and simulations
